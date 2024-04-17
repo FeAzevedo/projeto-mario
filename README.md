@@ -1,7 +1,7 @@
 # projeto-mario
 Criação de landing page 📜
 
-[<img src="./gifmario.gif" alt="gif da landing page Mario">]
+<img src="./gifmario.gif" alt="gif da landing page Mario">
 
 ## Tecnologias Utilizadas
 - HTML
